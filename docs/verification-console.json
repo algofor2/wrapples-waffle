@@ -1,0 +1,138 @@
+[
+  {
+    "view": "desktop",
+    "path": "/",
+    "file": "docs/desktop-home-final.png",
+    "title": "Wrapples Waffle | Aydın Efeler Waffle",
+    "h1": "Waffle\nkeyfi burada.",
+    "products": 4,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 19,
+    "imageCount": 15,
+    "unloaded": []
+  },
+  {
+    "view": "desktop",
+    "path": "/menu",
+    "file": "docs/desktop-menu-final.png",
+    "title": "Waffle Menüsü | Wrapples Waffle",
+    "h1": "Lezzet\nharitası.",
+    "products": 11,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 12,
+    "imageCount": 11,
+    "unloaded": []
+  },
+  {
+    "view": "desktop",
+    "path": "/galeri",
+    "file": "docs/desktop-galeri-final.png",
+    "title": "Galeri | Wrapples Waffle",
+    "h1": "Bizim\ngalerimiz.",
+    "products": 0,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 6,
+    "imageCount": 6,
+    "unloaded": []
+  },
+  {
+    "view": "desktop",
+    "path": "/iletisim",
+    "file": "docs/desktop-iletisim-final.png",
+    "title": "İletişim ve Konum | Wrapples Waffle",
+    "h1": "İletişim.",
+    "products": 0,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 6,
+    "imageCount": 1,
+    "unloaded": []
+  },
+  {
+    "orderLink": "https://wa.me/905402560609?text=Merhaba%20Wrapples%20Waffle%2C%20Klasik%20Waffle%20i%C3%A7in%20sipari%C5%9F%20vermek%20istiyorum.%0AAdet%3A%202%0ANot%3A%20%C3%87ilek%20olsun%0AM%C3%BCsaitlik%20ve%20teslim%20alma%20bilgisini%20payla%C5%9Fabilir%20misiniz%3F"
+  },
+  {
+    "view": "desktop",
+    "errors": []
+  },
+  {
+    "view": "mobile",
+    "path": "/",
+    "file": "docs/mobile-home-final.png",
+    "title": "Wrapples Waffle | Aydın Efeler Waffle",
+    "h1": "Waffle\nkeyfi burada.",
+    "products": 4,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 18,
+    "imageCount": 15,
+    "unloaded": [
+      {
+        "src": "/images/products/bowl-waffle.webp",
+        "loaded": false
+      }
+    ]
+  },
+  {
+    "view": "mobile",
+    "path": "/menu",
+    "file": "docs/mobile-menu-final.png",
+    "title": "Waffle Menüsü | Wrapples Waffle",
+    "h1": "Lezzet\nharitası.",
+    "products": 11,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 12,
+    "imageCount": 11,
+    "unloaded": []
+  },
+  {
+    "view": "mobile",
+    "path": "/galeri",
+    "file": "docs/mobile-galeri-final.png",
+    "title": "Galeri | Wrapples Waffle",
+    "h1": "Bizim\ngalerimiz.",
+    "products": 0,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 6,
+    "imageCount": 6,
+    "unloaded": []
+  },
+  {
+    "view": "mobile",
+    "path": "/iletisim",
+    "file": "docs/mobile-iletisim-final.png",
+    "title": "İletişim ve Konum | Wrapples Waffle",
+    "h1": "İletişim.",
+    "products": 0,
+    "prices": false,
+    "franchise": false,
+    "cart": false,
+    "horizontalOverflow": false,
+    "reveals": 6,
+    "imageCount": 1,
+    "unloaded": []
+  },
+  {
+    "view": "mobile",
+    "errors": []
+  }
+]

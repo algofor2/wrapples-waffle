@@ -1,0 +1,137 @@
+{
+  "initialUrl": "https://www.thebelgianwaffle.co/",
+  "buttons": [
+    " Previous",
+    " Next",
+    "1",
+    "2",
+    "3",
+    " Previous",
+    " Next",
+    " Previous",
+    " Next"
+  ],
+  "nav": [],
+  "animations": [
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "DIV",
+      "cls": "absolute left-0 top-full mt-2 bg-brown shadow-lg rounded-md  opacity-0 invisible",
+      "animation": "none",
+      "transition": "0.3s cubic-bezier(0, 0, 0.2, 1)"
+    },
+    {
+      "tag": "A",
+      "cls": "block px-4 py-2 hover:bg-thin-gray text-primary! text-base rounded-md whitespace",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "block px-4 py-2 hover:bg-thin-gray text-primary! text-base rounded-md whitespace",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.5s ease-in-out"
+    },
+    {
+      "tag": "svg",
+      "cls": "[object SVGAnimatedString]",
+      "animation": "none",
+      "transition": "transform 0.3s cubic-bezier(0.4, 0, 0.2, 1), translate 0.3s cubic-bezier(0.4, 0, 0.2, 1), scale 0.3s cubic-bezier(0.4, 0, 0.2, 1), rotate 0.3s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    {
+      "tag": "DIV",
+      "cls": "overflow-hidden transition-all duration-300 max-h-0 opacity-0",
+      "animation": "none",
+      "transition": "0.3s cubic-bezier(0.4, 0, 0.2, 1)"
+    },
+    {
+      "tag": "DIV",
+      "cls": "hero",
+      "animation": "none",
+      "transition": "transform 0.1s ease-out, opacity 0.1s ease-out"
+    },
+    {
+      "tag": "DIV",
+      "cls": "hero",
+      "animation": "none",
+      "transition": "transform 0.1s ease-out, opacity 0.1s ease-out"
+    },
+    {
+      "tag": "DIV",
+      "cls": "slick-slide slick-active slick-current",
+      "animation": "none",
+      "transition": "opacity 0.8s, visibility 0.8s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "slick-slide",
+      "animation": "none",
+      "transition": "opacity 0.8s, visibility 0.8s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "slick-slide",
+      "animation": "none",
+      "transition": "opacity 0.8s, visibility 0.8s"
+    },
+    {
+      "tag": "IMG",
+      "cls": "leftBis ",
+      "animation": "none",
+      "transition": "0.3s ease-in-out"
+    },
+    {
+      "tag": "IMG",
+      "cls": "mainb ",
+      "animation": "none",
+      "transition": "0.3s ease-in-out"
+    },
+    {
+      "tag": "DIV",
+      "cls": "slick-slide slick-active slick-current",
+      "animation": "none",
+      "transition": "opacity 0.4s, visibility 0.4s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "product-swiper-innr",
+      "animation": "none",
+      "transition": "transform 0.6s, opacity 0.6s"
+    }
+  ]
+}

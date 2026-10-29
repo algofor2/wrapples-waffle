@@ -1,0 +1,953 @@
+{
+  "navigationError": null,
+  "data": {
+    "title": "Sweet Waffle",
+    "url": "https://www.mysweetwaffle.com.tr/",
+    "viewport": {
+      "width": 768,
+      "height": 1024,
+      "scrollHeight": 6861
+    },
+    "body": {
+      "tag": "body",
+      "text": "Y\nü\nk\nl\ne\nn\ni\ny\no\nr\n.\n.\n.\n\nTR\nANASAYFA\nÜRÜNLER\nHAKKIMIZDA\nFRANCHISING\nİLETİŞİM\nMağazalarımız\nSweet Waffle\n\nAkışkan çikol",
+      "x": 0,
+      "y": 0,
+      "width": 768,
+      "height": 6861,
+      "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "color": "rgb(42, 26, 16)",
+      "background": "rgb(251, 247, 240)",
+      "display": "flex",
+      "position": "static",
+      "gap": "normal",
+      "padding": "0px",
+      "transition": "all",
+      "animation": "none"
+    },
+    "header": [
+      {
+        "tag": "header",
+        "text": "TR\nANASAYFA\nÜRÜNLER\nHAKKIMIZDA\nFRANCHISING\nİLETİŞİM\nMağazalarımız",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 104,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "fixed",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "nav",
+        "text": "ANASAYFAÜRÜNLERHAKKIMIZDAFRANCHISINGİLETİŞİM",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "none",
+        "position": "static",
+        "gap": "32px",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "nav",
+        "text": "ANASAYFA\nÜRÜNLER\nHAKKIMIZDA\nFRANCHISING\nİLETİŞİM\nMağazalarımız",
+        "x": 24,
+        "y": 129,
+        "width": 720,
+        "height": 220,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "gap": "20px",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "hero": [
+      {
+        "tag": "section",
+        "text": "Sweet Waffle\n\nAkışkan çikolata, taptaze meyveler ve sıcacık waffle bir arada.\n\nDaha Fazla Bilgi",
+        "x": 0,
+        "y": 0,
+        "width": 768,
+        "height": 1024,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h1",
+        "text": "Sweet Waffle",
+        "x": 24,
+        "y": 407,
+        "width": 501,
+        "height": 75,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "700",
+        "lineHeight": "75px",
+        "color": "rgb(251, 247, 240)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "Sweet Waffle",
+        "x": 24,
+        "y": 407,
+        "width": 501,
+        "height": 75,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "60px",
+        "fontWeight": "700",
+        "lineHeight": "75px",
+        "color": "rgb(251, 247, 240)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Özenle Hazırlanmış,\nKusursuz Bir Tat",
+        "x": 24,
+        "y": 1700,
+        "width": 720,
+        "height": 99,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "49.5px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Benzersiz Tat, Benzersiz Deneyim",
+        "x": 24,
+        "y": 2063,
+        "width": 720,
+        "height": 36,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Ürün Çeşitlerimiz",
+        "x": 24,
+        "y": 2802,
+        "width": 720,
+        "height": 36,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "color": "rgb(232, 96, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Waffle Maker",
+        "x": 24,
+        "y": 3454,
+        "width": 720,
+        "height": 36,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "color": "rgb(232, 96, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "İçeriğini Seç!",
+        "x": 24,
+        "y": 3766,
+        "width": 720,
+        "height": 36,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "30px",
+        "fontWeight": "700",
+        "lineHeight": "36px",
+        "color": "rgb(232, 96, 76)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Kusursuz Bir Tat!",
+        "x": 24,
+        "y": 5418,
+        "width": 720,
+        "height": 40,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "36px",
+        "fontWeight": "700",
+        "lineHeight": "40px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h3",
+        "text": "Kase Waffle Keyfi",
+        "x": 99,
+        "y": 5963,
+        "width": 189,
+        "height": 32,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "24px",
+        "fontWeight": "700",
+        "lineHeight": "32px",
+        "color": "rgb(42, 26, 16)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "TR",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "19.5px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "gap": "8px",
+        "padding": "6px 12px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "TR",
+        "x": 603,
+        "y": 37,
+        "width": 89,
+        "height": 30,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "13px",
+        "fontWeight": "500",
+        "lineHeight": "19.5px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "gap": "8px",
+        "padding": "4px 10px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 704,
+        "y": 32,
+        "width": 40,
+        "height": 40,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s cubic-bezier(0.4, 0, 0.2, 1), transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), translate 0.15s cubic-bezier(0.4, 0, 0.2, 1), scale 0.15s cubic-bezier(0.4, 0, 0.2, 1), rotate 0.15s cubic-bezier(0.4, 0, 0.2, 1), filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), -webkit-backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), display 0.15s cubic-bezier(0.4, 0, 0.2, 1), content-visibility 0.15s cubic-bezier(0.4, 0, 0.2, 1), overlay 0.15s cubic-bezier(0.4, 0, 0.2, 1), pointer-events 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 24,
+        "y": 490,
+        "width": 44,
+        "height": 44,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(251, 247, 240)",
+        "background": "oklab(0.235637 0.0189965 0.0248829 / 0.35)",
+        "display": "flex",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s cubic-bezier(0.4, 0, 0.2, 1), transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), translate 0.15s cubic-bezier(0.4, 0, 0.2, 1), scale 0.15s cubic-bezier(0.4, 0, 0.2, 1), rotate 0.15s cubic-bezier(0.4, 0, 0.2, 1), filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), -webkit-backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), display 0.15s cubic-bezier(0.4, 0, 0.2, 1), content-visibility 0.15s cubic-bezier(0.4, 0, 0.2, 1), overlay 0.15s cubic-bezier(0.4, 0, 0.2, 1), pointer-events 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 700,
+        "y": 490,
+        "width": 44,
+        "height": 44,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(251, 247, 240)",
+        "background": "oklab(0.235637 0.0189965 0.0248829 / 0.35)",
+        "display": "flex",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "color 0.15s cubic-bezier(0.4, 0, 0.2, 1), background-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), border-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), outline-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), text-decoration-color 0.15s cubic-bezier(0.4, 0, 0.2, 1), fill 0.15s cubic-bezier(0.4, 0, 0.2, 1), stroke 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-from 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-via 0.15s cubic-bezier(0.4, 0, 0.2, 1), --tw-gradient-to 0.15s cubic-bezier(0.4, 0, 0.2, 1), opacity 0.15s cubic-bezier(0.4, 0, 0.2, 1), box-shadow 0.15s cubic-bezier(0.4, 0, 0.2, 1), transform 0.15s cubic-bezier(0.4, 0, 0.2, 1), translate 0.15s cubic-bezier(0.4, 0, 0.2, 1), scale 0.15s cubic-bezier(0.4, 0, 0.2, 1), rotate 0.15s cubic-bezier(0.4, 0, 0.2, 1), filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), -webkit-backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), backdrop-filter 0.15s cubic-bezier(0.4, 0, 0.2, 1), display 0.15s cubic-bezier(0.4, 0, 0.2, 1), content-visibility 0.15s cubic-bezier(0.4, 0, 0.2, 1), overlay 0.15s cubic-bezier(0.4, 0, 0.2, 1), pointer-events 0.15s cubic-bezier(0.4, 0, 0.2, 1)",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 24,
+        "y": 646,
+        "width": 39,
+        "height": 4,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(251, 247, 240)",
+        "background": "oklab(0.977288 0.00150153 0.0101241 / 0.25)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 71,
+        "y": 646,
+        "width": 39,
+        "height": 4,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(251, 247, 240)",
+        "background": "oklab(0.977288 0.00150153 0.0101241 / 0.25)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "",
+        "x": 118,
+        "y": 646,
+        "width": 39,
+        "height": 4,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(251, 247, 240)",
+        "background": "oklab(0.977288 0.00150153 0.0101241 / 0.25)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "cards": [],
+    "images": [
+      {
+        "tag": "img",
+        "text": "",
+        "x": -38,
+        "y": -51,
+        "width": 845,
+        "height": 1126,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": 0,
+        "y": 512,
+        "width": 768,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": -38,
+        "y": -51,
+        "width": 845,
+        "height": 1126,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": 0,
+        "y": 512,
+        "width": 768,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": -38,
+        "y": -51,
+        "width": 845,
+        "height": 1126,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": 0,
+        "y": 512,
+        "width": 768,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": -38,
+        "y": -51,
+        "width": 845,
+        "height": 1126,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "img",
+        "text": "",
+        "x": 0,
+        "y": 512,
+        "width": 768,
+        "height": 0,
+        "fontFamily": "Roboto, \"Roboto Fallback\", Roboto, Arial, Helvetica, sans-serif",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "scripts": [
+      "https://www.googletagmanager.com/gtm.js?id=GTM-56N8GL8V",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/391caoukuj6-k.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/3kw1yyr4uuo_n.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/3g2-m2v2eaeqj.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/3jpue5p7vf7rk.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/turbopack-0nr60n1cruxa6.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/2zqnkz8ms_acg.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/14mrh2-p_w84d.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/14idee56agy58.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/3a37zu5m8y88p.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/1n0tqadrsshw3.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/22h06qegs1cpv.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/157u8xjvgk73w.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/1scmdvx54g756.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/34t3p516eaooe.js"
+    ],
+    "stylesheets": [
+      "https://www.mysweetwaffle.com.tr/_next/static/chunks/1gs1wfahrz_6o.css"
+    ],
+    "links": [
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "ANASAYFA",
+        "href": "/"
+      },
+      {
+        "text": "ÜRÜNLER",
+        "href": "/menu"
+      },
+      {
+        "text": "HAKKIMIZDA",
+        "href": "/hakkimizda"
+      },
+      {
+        "text": "FRANCHISING",
+        "href": "/franchising"
+      },
+      {
+        "text": "İLETİŞİM",
+        "href": "/iletisim"
+      },
+      {
+        "text": "Mağazalarımız",
+        "href": "/magazalar"
+      },
+      {
+        "text": "ANASAYFA",
+        "href": "/"
+      },
+      {
+        "text": "ÜRÜNLER",
+        "href": "/menu"
+      },
+      {
+        "text": "HAKKIMIZDA",
+        "href": "/hakkimizda"
+      },
+      {
+        "text": "FRANCHISING",
+        "href": "/franchising"
+      },
+      {
+        "text": "İLETİŞİM",
+        "href": "/iletisim"
+      },
+      {
+        "text": "Mağazalarımız",
+        "href": "/magazalar"
+      },
+      {
+        "text": "Daha Fazla Bilgi",
+        "href": "/hakkimizda"
+      },
+      {
+        "text": "Sıradaki Franchise Sizin Olsun",
+        "href": "/franchising"
+      },
+      {
+        "text": "Bubble Waffle",
+        "href": "/menu"
+      },
+      {
+        "text": "Kruvasan",
+        "href": "/menu"
+      },
+      {
+        "text": "Croffle",
+        "href": "/menu"
+      },
+      {
+        "text": "Kova Waffle",
+        "href": "/menu"
+      },
+      {
+        "text": "Bardak Waffle",
+        "href": "/menu"
+      },
+      {
+        "text": "Belçika Waffle",
+        "href": "/menu"
+      },
+      {
+        "text": "Sıradaki Franchise Sizin olsun!",
+        "href": "/franchising"
+      },
+      {
+        "text": "Sıradaki Franchise Sizin olsun!",
+        "href": "/franchising"
+      },
+      {
+        "text": "sweetwaffle.tr",
+        "href": "https://www.instagram.com/sweetwaffle.tr"
+      },
+      {
+        "text": "ANASAYFA",
+        "href": "/"
+      },
+      {
+        "text": "ÜRÜNLER",
+        "href": "/menu"
+      },
+      {
+        "text": "HAKKIMIZDA",
+        "href": "/hakkimizda"
+      },
+      {
+        "text": "FRANCHISING",
+        "href": "/franchising"
+      },
+      {
+        "text": "İLETİŞİM",
+        "href": "/iletisim"
+      },
+      {
+        "text": "Mağazalarımız",
+        "href": "/magazalar"
+      },
+      {
+        "text": "KVKK Aydınlatma Metni",
+        "href": "/kvkk-aydinlatma-metni"
+      },
+      {
+        "text": "Gizlilik Politikası",
+        "href": "/gizlilik-politikasi"
+      },
+      {
+        "text": "Çerez Politikası",
+        "href": "/cerez-politikasi"
+      },
+      {
+        "text": "+90 542 369 39 42",
+        "href": "tel:+905423693942"
+      },
+      {
+        "text": "info@mysweetwaffle.com.tr",
+        "href": "mailto:info@mysweetwaffle.com.tr"
+      }
+    ]
+  },
+  "network": [
+    {
+      "url": "https://www.mysweetwaffle.com.tr/",
+      "status": 200,
+      "type": "document"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/1gs1wfahrz_6o.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/media/f7d6090e8b3debad-s.p.026ae5sgholss.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/media/ce62453a442c7f35-s.p.0a0h245ktd4x0.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/assets/brand/loading.webp",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=%2Fassets%2Fbrand%2Flogo.png&w=96&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/34t3p516eaooe.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/lipis/flag-icons/flags/4x3/tr.svg",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783836720%2Fsweetwaffle%2Fsbs19pxnok2tqgiagatf.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/2zqnkz8ms_acg.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/turbopack-0nr60n1cruxa6.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/14mrh2-p_w84d.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/3jpue5p7vf7rk.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/14idee56agy58.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/391caoukuj6-k.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/3kw1yyr4uuo_n.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/157u8xjvgk73w.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839324%2Fsweetwaffle%2Faqnq9hdwikomvhh4tbyp.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839332%2Fsweetwaffle%2Fvnrbdfibe65zteiz8hze.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=%2Fassets%2Fbrand%2Fgallery-2.jpg&w=640&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839343%2Fsweetwaffle%2Ffa3zij9hvyluxrm6x3se.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/3g2-m2v2eaeqj.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/1scmdvx54g756.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839294%2Fsweetwaffle%2Fspher96dl04etjlcs7o2.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/3a37zu5m8y88p.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=%2Fassets%2Fbrand%2Fintro.jpg&w=1200&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839306%2Fsweetwaffle%2Fykfgpibqljrqtrvapvp0.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=%2Fassets%2Fbrand%2Fgallery-3.jpg&w=640&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=%2Fassets%2Fbrand%2Fgallery-1.jpg&w=640&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839352%2Fsweetwaffle%2Fyhbt47vzgfaglg2qmsqk.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/image?url=https%3A%2F%2Fres.cloudinary.com%2Fdqxe1ji5n%2Fimage%2Fupload%2Fv1783839315%2Fsweetwaffle%2Fsjy4e4nkmqhug2krusmf.png&w=828&q=80",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/22h06qegs1cpv.js",
+      "status": 200,
+      "type": "script"
+    },
+    {
+      "url": "https://www.mysweetwaffle.com.tr/_next/static/chunks/1n0tqadrsshw3.js",
+      "status": 200,
+      "type": "script"
+    }
+  ]
+}

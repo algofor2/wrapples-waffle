@@ -1,0 +1,765 @@
+{
+  "navigationError": null,
+  "data": {
+    "title": "The Belgian Waffle Co",
+    "url": "https://www.thebelgianwaffle.co/",
+    "viewport": {
+      "width": 1440,
+      "height": 900,
+      "scrollHeight": 9421
+    },
+    "body": {
+      "tag": "body",
+      "text": "Our Story\nMenu\nStore Locator\nEvents\nWaffleverse Rewards\nFranchise\n✕\nOur Story\nMenu\nOur Products\nNutritional Information\n",
+      "x": 0,
+      "y": 0,
+      "width": 1440,
+      "height": 9421,
+      "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+      "fontSize": "16px",
+      "fontWeight": "400",
+      "lineHeight": "24px",
+      "color": "rgb(77, 45, 30)",
+      "background": "rgb(255, 252, 213)",
+      "display": "block",
+      "position": "static",
+      "gap": "normal",
+      "padding": "0px",
+      "transition": "all",
+      "animation": "none"
+    },
+    "header": [
+      {
+        "tag": "header",
+        "text": "Our Story\nMenu\nStore Locator\nEvents\nWaffleverse Rewards\nFranchise",
+        "x": 0,
+        "y": 60,
+        "width": 1440,
+        "height": 50,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "16px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "fixed",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "none",
+        "animation": "none"
+      }
+    ],
+    "hero": [
+      {
+        "tag": "div",
+        "text": "",
+        "x": 0,
+        "y": 0,
+        "width": 1440,
+        "height": 900,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "transform 0.1s ease-out, opacity 0.1s ease-out",
+        "animation": "none"
+      },
+      {
+        "tag": "div",
+        "text": "",
+        "x": 288,
+        "y": 585,
+        "width": 864,
+        "height": 265,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h1",
+        "text": "",
+        "x": 288,
+        "y": 585,
+        "width": 864,
+        "height": 135,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "div",
+        "text": "",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "transform 0.1s ease-out, opacity 0.1s ease-out",
+        "animation": "none"
+      },
+      {
+        "tag": "section",
+        "text": "Previous\nNext\n1\n2\n3",
+        "x": 0,
+        "y": 900,
+        "width": 1440,
+        "height": 588,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "headings": [
+      {
+        "tag": "h1",
+        "text": "",
+        "x": 288,
+        "y": 585,
+        "width": 864,
+        "height": 135,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "400",
+        "lineHeight": "24px",
+        "color": "rgb(255, 255, 255)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "The\nOriginal\nWaff-wich",
+        "x": 60,
+        "y": 1518,
+        "width": 1320,
+        "height": 415,
+        "fontFamily": "BritanniaCGBold, \"BritanniaCGBold Fallback\"",
+        "fontSize": "115.2px",
+        "fontWeight": "700",
+        "lineHeight": "138.24px",
+        "color": "rgb(236, 89, 52)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "flex",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "India’s No 1",
+        "x": 70,
+        "y": 2288,
+        "width": 1190,
+        "height": 90,
+        "fontFamily": "BritanniaCGBold, \"BritanniaCGBold Fallback\"",
+        "fontSize": "90px",
+        "fontWeight": "400",
+        "lineHeight": "90px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "opacity, transform",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "Waffle Brand",
+        "x": 717,
+        "y": 2478,
+        "width": 550,
+        "height": 90,
+        "fontFamily": "BritanniaCGBold, \"BritanniaCGBold Fallback\"",
+        "fontSize": "90px",
+        "fontWeight": "400",
+        "lineHeight": "90px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "opacity, transform",
+        "animation": "none"
+      },
+      {
+        "tag": "h2",
+        "text": "MEET THE",
+        "x": 80,
+        "y": 2997,
+        "width": 1280,
+        "height": 52,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "66px",
+        "fontWeight": "700",
+        "lineHeight": "52px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "transform",
+        "animation": "none"
+      },
+      {
+        "tag": "h3",
+        "text": "show-stopper",
+        "x": 336,
+        "y": 3010,
+        "width": 768,
+        "height": 40,
+        "fontFamily": "alkaline, sans-serif",
+        "fontSize": "86px",
+        "fontWeight": "400",
+        "lineHeight": "66px",
+        "color": "rgb(240, 88, 51)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "opacity, transform",
+        "animation": "none"
+      },
+      {
+        "tag": "h3",
+        "text": "Waff-wiches",
+        "x": 734,
+        "y": 3128,
+        "width": 626,
+        "height": 50,
+        "fontFamily": "BritanniaCGBold, \"BritanniaCGBold Fallback\"",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "50px",
+        "color": "rgb(236, 89, 52)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "h3",
+        "text": "Beverages",
+        "x": 734,
+        "y": 3269,
+        "width": 626,
+        "height": 50,
+        "fontFamily": "BritanniaCGBold, \"BritanniaCGBold Fallback\"",
+        "fontSize": "50px",
+        "fontWeight": "400",
+        "lineHeight": "50px",
+        "color": "rgb(158, 92, 47)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "buttons": [
+      {
+        "tag": "button",
+        "text": "Previous",
+        "x": 100,
+        "y": 1169,
+        "width": 50,
+        "height": 50,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "Next",
+        "x": 1290,
+        "y": 1169,
+        "width": 50,
+        "height": 50,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "1",
+        "x": 680,
+        "y": 1318,
+        "width": 17,
+        "height": 17,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgb(255, 193, 14)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "5px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "2",
+        "x": 710,
+        "y": 1318,
+        "width": 17,
+        "height": 17,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(178, 178, 178, 0.25)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "5px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "3",
+        "x": 740,
+        "y": 1318,
+        "width": 17,
+        "height": 17,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(178, 178, 178, 0.25)",
+        "display": "block",
+        "position": "static",
+        "gap": "normal",
+        "padding": "5px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "a",
+        "text": "The full story",
+        "x": 810,
+        "y": 2737,
+        "width": 161,
+        "height": 48,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "20px",
+        "fontWeight": "600",
+        "lineHeight": "24px",
+        "color": "rgb(77, 45, 30)",
+        "background": "rgb(255, 255, 255)",
+        "display": "block",
+        "position": "relative",
+        "gap": "normal",
+        "padding": "12px 24px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "Previous",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      },
+      {
+        "tag": "button",
+        "text": "Next",
+        "x": 0,
+        "y": 0,
+        "width": 0,
+        "height": 0,
+        "fontFamily": "FamiljenGrotesk, \"FamiljenGrotesk Fallback\"",
+        "fontSize": "0px",
+        "fontWeight": "400",
+        "lineHeight": "0px",
+        "color": "rgba(0, 0, 0, 0)",
+        "background": "rgba(0, 0, 0, 0)",
+        "display": "block",
+        "position": "absolute",
+        "gap": "normal",
+        "padding": "0px",
+        "transition": "all",
+        "animation": "none"
+      }
+    ],
+    "cards": [],
+    "images": [],
+    "scripts": [
+      "https://www.thebelgianwaffle.co/_next/static/chunks/27jktro2p5rq9.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/012evz6f8lz62.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/3lx6ikpuocsbv.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/turbopack-3-8s1x6ms70ti.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/3eia4bxqi1q0y.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/14mrh2-p_w84d.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/1kdlpuwq0l_ea.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/2fc-6hpr90i7x.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/2wj4lmw08kqf3.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/1vptsx-z0or2q.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/26hihc33-1lus.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/0cz1d0mv5g_q7.js",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/01599w_myoj4b.js"
+    ],
+    "stylesheets": [
+      "https://www.thebelgianwaffle.co/_next/static/chunks/0go6btet4so22.css",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/2lr9u62wd_03k.css",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/2mtfi1chnh4qx.css",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/0zo1plfldjwle.css",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/22r45i7cmhs_4.css",
+      "https://www.thebelgianwaffle.co/_next/static/chunks/1676b-jwht493.css",
+      "https://fonts.googleapis.com/css2?family=Averia+Sans+Libre&family=Familjen+Grotesk&display=swap"
+    ],
+    "links": [
+      {
+        "text": "Our Story",
+        "href": "/about-us"
+      },
+      {
+        "text": "Menu",
+        "href": "/menu"
+      },
+      {
+        "text": "",
+        "href": "/menu"
+      },
+      {
+        "text": "",
+        "href": "/assets/images/nutritional-sheet.pdf"
+      },
+      {
+        "text": "Store Locator",
+        "href": "/store-locator"
+      },
+      {
+        "text": "",
+        "href": "/"
+      },
+      {
+        "text": "Events",
+        "href": "/events-catering"
+      },
+      {
+        "text": "Waffleverse Rewards",
+        "href": "https://loyalty.thebelgianwaffle.co/"
+      },
+      {
+        "text": "Franchise",
+        "href": "/franchise"
+      },
+      {
+        "text": "Our Story",
+        "href": "/about-us"
+      },
+      {
+        "text": "Menu",
+        "href": "/menu"
+      },
+      {
+        "text": "Our Products",
+        "href": "/menu"
+      },
+      {
+        "text": "Nutritional Information",
+        "href": "/assets/images/nutritional-sheet.pdf"
+      },
+      {
+        "text": "Store Locator",
+        "href": "/store-locator"
+      },
+      {
+        "text": "Events",
+        "href": "/events-catering"
+      },
+      {
+        "text": "Waffleverse Rewards",
+        "href": "https://loyalty.thebelgianwaffle.co/"
+      },
+      {
+        "text": "Franchise",
+        "href": "/franchise"
+      },
+      {
+        "text": "Contact",
+        "href": "/contact-us"
+      },
+      {
+        "text": "The full story",
+        "href": "/about-us"
+      },
+      {
+        "text": "Join the Waffleverse",
+        "href": "https://loyalty.thebelgianwaffle.co/"
+      },
+      {
+        "text": "Join the Waffleverse",
+        "href": "https://loyalty.thebelgianwaffle.co/"
+      },
+      {
+        "text": "Start a franchise",
+        "href": "/franchise"
+      },
+      {
+        "text": "Host with us",
+        "href": "/events-catering"
+      },
+      {
+        "text": "Host with us",
+        "href": "/events-catering"
+      },
+      {
+        "text": "Find a store",
+        "href": "/store-locator"
+      },
+      {
+        "text": "",
+        "href": "#"
+      },
+      {
+        "text": "Our Story",
+        "href": "/about-us"
+      },
+      {
+        "text": "Store Locator",
+        "href": "/store-locator"
+      },
+      {
+        "text": "Disclaimer",
+        "href": "/disclaimer"
+      },
+      {
+        "text": "Events",
+        "href": "/events-catering"
+      },
+      {
+        "text": "Employee Policies",
+        "href": "#"
+      },
+      {
+        "text": "",
+        "href": "/assets/images/POSH-Policy-new.pdf"
+      },
+      {
+        "text": "",
+        "href": "/assets/images/Whistleblower Policy - BWC.pdf"
+      },
+      {
+        "text": "T & C",
+        "href": "/terms-conditions"
+      },
+      {
+        "text": "Privacy Policy",
+        "href": "/privacyPolicy"
+      }
+    ]
+  },
+  "network": [
+    {
+      "url": "https://www.thebelgianwaffle.co/",
+      "status": 200,
+      "type": "document"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/797e433ab948586e-s.p.0r6juujl39pe6.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Averia+Sans+Libre&family=Familjen+Grotesk&display=swap",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/0go6btet4so22.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/2lr9u62wd_03k.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/2mtfi1chnh4qx.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/0zo1plfldjwle.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/22r45i7cmhs_4.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/chunks/1676b-jwht493.css",
+      "status": 200,
+      "type": "stylesheet"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/BritanniaCGBold-s.p.14quxykgldr0k.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://api.thebelgianwaffle.co/uploads/belgian_img/banner/1791813326473-Artboard%2010.jpg",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://api.thebelgianwaffle.co/uploads/belgian_img/pages/Waffle_copy_WKukMrtsd.png?tr=orig-true",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/familjengrotesk/v11/Qw3LZR9ZHiDnImG6-NEMQ41wby8WRnYsfkunR_eGfMGJaRzqeVn-FJq3Tv4.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/Alkaline_Demi-s.p.1patsrpa8tc3d.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/caa3a2e1cccd8315-s.p.0wgildi0cnwt9.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/FamiljenGrotesk_Bold-s.p.41vj1vlbqg1lv.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/FamiljenGrotesk_Medium-s.p.1jxevq020arwf.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/FamiljenGrotesk_Regular-s.p.1wyfp-1jawcvy.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/assets/images/trippleNew.jpg",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/static/media/FamiljenGrotesk_SemiBold-s.p.0me0vhglmayl3.woff2",
+      "status": 200,
+      "type": "font"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/assets/images/biscuit.png",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://www.thebelgianwaffle.co/_next/image?url=https%3A%2F%2Fapi.thebelgianwaffle.co%2Fuploads%2Fbelgian_img%2Fpages%2FUse_this_for_the_Events_at_home_page_m1rvpww7zg.png&w=1920&q=75",
+      "status": 200,
+      "type": "image"
+    },
+    {
+      "url": "https://api.thebelgianwaffle.co/uploads/belgian_img/banner/1790162768692-1920pxX750px_Web-banner-for-Coffee-State-of-mind.jpg",
+      "status": 200,
+      "type": "image"
+    }
+  ]
+}

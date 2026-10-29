@@ -1,0 +1,135 @@
+{
+  "initialUrl": "https://aberfa.com/",
+  "buttons": [
+    "\n                Menüyü Keşfet\n            "
+  ],
+  "nav": [
+    "\n        Aberfa Waffle\n        \n            \n            \n            \n        \n        \n            Ana Sayfa\n            Menü\n            Hakkımızda\n            İletişim\n        \n    "
+  ],
+  "animations": [
+    {
+      "tag": "DIV",
+      "cls": "floating-element float-1",
+      "animation": "6s ease-in-out infinite float",
+      "transition": "all"
+    },
+    {
+      "tag": "DIV",
+      "cls": "floating-element float-2",
+      "animation": "8s ease-in-out 2s infinite float",
+      "transition": "all"
+    },
+    {
+      "tag": "DIV",
+      "cls": "floating-element float-3",
+      "animation": "7s ease-in-out 4s infinite float",
+      "transition": "all"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "SPAN",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "UL",
+      "cls": "nav-links",
+      "animation": "none",
+      "transition": "right 0.3s"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "A",
+      "cls": "",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "hero-background",
+      "animation": "15s infinite gradientShift",
+      "transition": "all"
+    },
+    {
+      "tag": "H1",
+      "cls": "",
+      "animation": "1s ease-out slideDown",
+      "transition": "all"
+    },
+    {
+      "tag": "P",
+      "cls": "",
+      "animation": "1s ease-out 0.5s backwards fadeIn",
+      "transition": "all"
+    },
+    {
+      "tag": "BUTTON",
+      "cls": "cta-button",
+      "animation": "1s ease-out 1s backwards fadeIn",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "A",
+      "cls": "menu-button",
+      "animation": "none",
+      "transition": "0.4s"
+    },
+    {
+      "tag": "A",
+      "cls": "menu-button",
+      "animation": "none",
+      "transition": "0.4s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "highlight-item",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "highlight-item",
+      "animation": "none",
+      "transition": "0.3s"
+    },
+    {
+      "tag": "DIV",
+      "cls": "highlight-item",
+      "animation": "none",
+      "transition": "0.3s"
+    }
+  ],
+  "afterCta": {
+    "hash": "",
+    "scrollY": 789
+  }
+}

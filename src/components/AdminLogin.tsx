@@ -1,0 +1,4 @@
+'use client';
+import { useState } from 'react';
+import { useRouter } from 'next/navigation';
+export function AdminLogin() { const [password, setPassword] = useState(''); const [error, setError] = useState(''); const router = useRouter(); async function submit(e: React.FormEvent) { e.preventDefault(); const response = await fetch('/api/admin/login', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ password }) }); if (!response.ok) { const result = await response.json(); setError(result.error || 'Giriş başarısız'); return; } router.push('/admin'); router.refresh(); } return <form onSubmit={submit} className="login-form"><label>Yönetim şifresi<input type="password" value={password} onChange={e => setPassword(e.target.value)} autoComplete="current-password" required/></label>{error && <p role="alert">{error}</p>}<button className="button-primary full" type="submit">Giriş yap</button></form>; }

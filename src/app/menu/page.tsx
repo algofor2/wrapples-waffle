@@ -1,6 +1,6 @@
 import { canonicalMetadata } from '@/lib/site-url';
 import type { Metadata } from 'next';
-import { getProducts, getSettings } from '@/lib/db';
+import { getProducts, getSettings } from '@/lib/storefront';
 import { MenuExplorer } from '@/components/MenuExplorer';
 import { ScrollMotion } from '@/components/ScrollMotion';
 export const metadata: Metadata = { ...canonicalMetadata('/menu'), title: 'Waffle Menüsü', description: 'Aydın Efeler Wrapples Waffle menüsü: klasik, kova, bardak, bowl ve özel seri waffle çeşitleri.' };

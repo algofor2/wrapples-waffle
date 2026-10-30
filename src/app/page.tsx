@@ -2,7 +2,7 @@ import { canonicalMetadata } from '@/lib/site-url';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArrowUpRight, MoveRight } from 'lucide-react';
-import { getProducts, getSettings } from '@/lib/db';
+import { getProducts, getSettings } from '@/lib/storefront';
 import { ProductCard } from '@/components/ProductCard';
 import { ProductVisual } from '@/components/ProductVisual';
 import { ScrollMotion } from '@/components/ScrollMotion';

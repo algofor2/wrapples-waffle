@@ -2,7 +2,7 @@ import { canonicalMetadata } from '@/lib/site-url';
 import type { Metadata } from 'next';
 import Image from 'next/image';
 import { ArrowUpRight, MapPin, Phone, Clock3, MessageCircle } from 'lucide-react';
-import { getSettings } from '@/lib/db';
+import { getSettings } from '@/lib/storefront';
 import { ScrollMotion } from '@/components/ScrollMotion';
 export const metadata: Metadata = { ...canonicalMetadata('/iletisim'), title: 'İletişim ve Konum', description: 'Wrapples Waffle, Adnan Menderes Bulvarı 39 B, Güzelhisar, Efeler / Aydın.' };
 export const dynamic = 'force-dynamic';

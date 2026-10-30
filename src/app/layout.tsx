@@ -4,7 +4,7 @@ import './fonts.css';
 import './premium.css';
 import { SiteHeader } from '@/components/SiteHeader';
 import { SiteFooter } from '@/components/SiteFooter';
-import { getSettings } from '@/lib/db';
+import { getSettings } from '@/lib/storefront';
 import { getSiteUrl } from '@/lib/site-url';
 const siteUrl = getSiteUrl();
 export const metadata: Metadata = {

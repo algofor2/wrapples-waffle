@@ -1,7 +1,6 @@
 import { expect, test } from '@playwright/test';
 import { seedProducts } from '../src/lib/catalog';
 import { buildOrderMessage } from '../src/lib/orders';
-import { productSchema } from '../src/lib/validation';
 
 test('WhatsApp includes every chosen option and enforces group limits', async ({ page }) => {
   await page.goto('/menu');
@@ -85,19 +84,19 @@ test('all local images load and layouts fit viewport', async ({ page }) => {
   }
 });
 
-test('admin APIs remain protected without configuration', async ({ request, page }) => {
-  const products = await request.put('/api/admin/products', { data: seedProducts[0], headers: { origin: 'http://127.0.0.1:3001' } });
-  expect(products.status()).toBe(403);
-  const settings = await request.put('/api/admin/settings', { data: {}, headers: { origin: 'http://127.0.0.1:3001' } });
-  expect(settings.status()).toBe(403);
-  await page.goto('/admin');
-  await expect(page).toHaveURL(/\/admin\/login$/);
-  await expect(page.locator('meta[name="robots"]')).toHaveAttribute('content', /noindex/);
+test('admin and admin API routes no longer exist', async ({ request, page }) => {
+  for (const path of ['/admin', '/admin/login', '/api/admin/products', '/api/admin/settings', '/api/admin/login', '/api/admin/logout']) {
+    const response = await request.get(path);
+    expect(response.status(), path).toBe(404);
+  }
+  await page.goto('/');
+  await expect(page.getByRole('link', { name: /İşletme yönetimi/i })).toHaveCount(0);
 });
 
-test('all seed images are editable; invalid local image paths are rejected', () => {
-  for (const product of seedProducts) expect(productSchema.safeParse(product).success, product.id).toBe(true);
-  for (const imageUrl of ['/images/../../secret.webp', '//evil.test/x.webp', 'javascript:alert(1)', 'http://evil.test/x.webp']) expect(productSchema.safeParse({ ...seedProducts[0], imageUrl }).success).toBe(false);
+test('static catalog and sanitized WhatsApp order request', () => {
+  expect(seedProducts).toHaveLength(11);
   const message = buildOrderMessage(seedProducts[0], 999, { cikolata: ['Forged option', 'Sütlü çikolata'] }, ' test ');
-  expect(message).toContain('Adet: 30'); expect(message).not.toContain('Forged option'); expect(message).toContain('Not: test');
+  expect(message).toContain('Adet: 30');
+  expect(message).not.toContain('Forged option');
+  expect(message).toContain('Not: test');
 });

@@ -17,3 +17,17 @@ Fotoğraf çözünürlüğü Migros'ta 330×330 ile sınırlı; özellikle hero 
 Not: Playwright tam sayfa ekran görüntüsü, üçüncü taraf Google Maps iframe içeriğini boş gösterebiliyor. İframe görünür alana kaydırıldıktan sonra alınan [ayrı harita ekran görüntüsü](map-iframe-check.png) haritanın yüklendiğini gösterir; ayrıca doğrudan Google Maps yol tarifi bağlantısı bulunur.
 
 Sonraki kullanıcı isteğiyle beş eksik ürün görseli imagegen ile üretildi; kart ve ürün pencerelerinde temsili oldukları belirtilir. Gerçek fotoğraf galerisi yalnız doğrulanmış kaynak görsellerden oluşur.
+
+## 30 October 2026 — premium visual revision
+
+| Before | After |
+| --- | --- |
+| 330×330 product crops enlarged into the hero | 3 original landscape AI hero compositions with manual controls |
+| Mixed real and illustrative product photography | 11 consistent portrait still lifes; all labeled “Temsili sunum” |
+| Very heavy sans headings and coral cards | Editorial serif typography, cream/cocoa/terracotta palette, lighter product layouts |
+| Repeated product pictures in story sections | Separate preparation, chocolate-pour and table photographs |
+| Note/quantity-only order details | Existing chocolate/fruit preferences exposed and included in WhatsApp message |
+| Filters mounted cards outside the initial observer | Mutation-aware scroll observation and live reduced-motion support |
+| External font request, Mac-only test browser | Self-hosted licensed fonts; portable Playwright configuration |
+
+Desktop: [before](premium-evidence/before-desktop-home.jpg) / [after](premium-evidence/after-desktop-home.jpg). Mobile: [before](premium-evidence/before-mobile-home.jpg) / [after](premium-evidence/after-mobile-home.jpg). Hero: [desktop](premium-evidence/after-desktop-hero.jpg), [mobile](premium-evidence/after-mobile-hero.jpg). Verification and remaining deployment requirements are recorded in [premium QA](premium-qa.md).

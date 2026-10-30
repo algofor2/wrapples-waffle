@@ -10,11 +10,12 @@ export function SiteHeader({ whatsappNumber }: { whatsappNumber: string | null }
   const [scrolled, setScrolled] = useState(false);
   const pathname = usePathname();
   useEffect(() => { const onScroll = () => setScrolled(window.scrollY > 40); onScroll(); window.addEventListener('scroll', onScroll, { passive: true }); return () => window.removeEventListener('scroll', onScroll); }, [pathname]);
+  useEffect(() => { const close = (event: KeyboardEvent) => { if (event.key === 'Escape') setOpen(false); }; window.addEventListener('keydown', close); return () => window.removeEventListener('keydown', close); }, []);
   return <header className="site-header" data-hero={pathname === '/' && !scrolled && !open ? 'true' : 'false'}>
     <div className="header-inner">
       <Link href="/" className="brand" aria-label="Wrapples Waffle ana sayfa" onClick={() => setOpen(false)}><span className="brand-seal">W<span>✳</span></span><span className="brand-type">wrapples<small>WAFFLE CAFE · AYDIN</small></span></Link>
-      <nav className={open ? 'main-nav is-open' : 'main-nav'} aria-label="Ana menü">{links.map(([href, label]) => <Link key={href} href={href} onClick={() => setOpen(false)} aria-current={pathname === href ? 'page' : undefined}>{label}</Link>)}</nav>
-      <div className="header-actions">{whatsappNumber && <a href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Merhaba Wrapples Waffle, ürünleriniz hakkında bilgi almak istiyorum.')}`} className="header-whatsapp" target="_blank" rel="noreferrer">WHATSAPP <ArrowUpRight size={15}/></a>}<button className="mobile-toggle" onClick={() => setOpen(!open)} aria-label={open ? 'Menüyü kapat' : 'Menüyü aç'} aria-expanded={open}>{open ? <X/> : <Menu/>}</button></div>
+      <nav className={open ? 'main-nav is-open' : 'main-nav'} aria-label="Ana menü" id="site-navigation">{links.map(([href, label]) => <Link key={href} href={href} onClick={() => setOpen(false)} aria-current={pathname === href ? 'page' : undefined}>{label}</Link>)}</nav>
+      <div className="header-actions">{whatsappNumber && <a href={`https://wa.me/${whatsappNumber}?text=${encodeURIComponent('Merhaba Wrapples Waffle, ürünleriniz hakkında bilgi almak istiyorum.')}`} className="header-whatsapp" target="_blank" rel="noreferrer">WHATSAPP <ArrowUpRight size={15}/></a>}<button className="mobile-toggle" onClick={() => setOpen(!open)} aria-label={open ? 'Menüyü kapat' : 'Menüyü aç'} aria-expanded={open} aria-controls="site-navigation">{open ? <X/> : <Menu/>}</button></div>
     </div>
   </header>;
 }

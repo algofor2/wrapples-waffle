@@ -1,2 +1,6 @@
 import type { MetadataRoute } from 'next';
-export default function robots(): MetadataRoute.Robots { return { rules: [{ userAgent: '*', allow: '/', disallow: ['/admin', '/api/admin'] }], sitemap: `${process.env.NEXT_PUBLIC_SITE_URL || 'https://wrapples.example'}/sitemap.xml` }; }
+import { getSiteUrl } from '@/lib/site-url';
+export default function robots(): MetadataRoute.Robots {
+  const base = getSiteUrl();
+  return { rules: [{ userAgent: '*', allow: '/', disallow: ['/admin', '/api/admin'] }], ...(base ? { sitemap: `${base}/sitemap.xml` } : {}) };
+}

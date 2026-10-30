@@ -22,3 +22,11 @@ npm run dev
 - [Masaüstü](docs/desktop-home-final.png) ve [mobil](docs/mobile-home-final.png) ekran görüntüleri
 
 `npm run typecheck`, `npm run lint` ve `npm run test:e2e` doğrulama komutlarıdır. E2E testi için önce `npm run build` çalıştırın.
+
+## Premium visual revision (30 October 2026)
+
+See [design direction](docs/DESIGN.md), [verification and deployment requirements](docs/premium-qa.md), [AI prompt manifest](docs/premium-image-manifest.json), and [before/after evidence](docs/premium-evidence/).
+
+Set `NEXT_PUBLIC_SITE_URL` to the real public origin before building for production. Without it no fictitious sitemap/canonical URLs are emitted. PostgreSQL and admin credentials are still required for persistent owner edits; existing database rows are not overwritten by seed changes.
+
+For portable browser setup, run `npx playwright install --with-deps chromium` then `npm run test:e2e` after building. An existing Chromium executable may be selected through `PLAYWRIGHT_CHROMIUM_EXECUTABLE_PATH`. To regenerate visual evidence: `CAPTURE_VISUALS=after npm run test:e2e -- tests/visual.spec.ts`.

@@ -35,3 +35,7 @@ Kullanıcı daha sonra eksik fotoğrafların oluşturulup yerleştirilmesini aç
 | Lotus Caramel Special | `public/images/products/illustrative-lotus-caramel.webp` | Şeffaf kapta waffle, karamel, baharatlı bisküvi kırıkları, meyve |
 
 Üretim yöntemi: built-in imagegen; tam promptlar [prompt kayıtlarında](illustrative-prompts.md) ve bu oturumdaki beş imagegen çağrısında saklıdır. Kaynak PNG'ler Codex generated_images dizininde; projede optimize WebP kopyaları bulunur.
+
+## 30 Ekim 2026 premium revizyonu
+
+Önceki kaynak dosyaları silinmedi. Menü ve ana sayfadaki 11 varsayılan sunum, yeni ve tutarlı AI fotoğraf setiyle değiştirildi. Altı gerçek Migros fotoğrafı ayrı `/galeri` sayfasında korundu. Beş önceki temsili görsel arşivde duruyor. Yeni tüm ürün görsellerinde “Temsili sunum” etiketi var; mekân konseptleri gerçek işletme olarak sunulmuyor. Yeni dosyalar `public/images/premium/` altında, tam promptlar `premium-image-manifest.json` içinde. Doğrulama ve kısıtlar: `premium-qa.md`.

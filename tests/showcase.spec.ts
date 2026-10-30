@@ -3,7 +3,7 @@ import { expect, test } from '@playwright/test';
 test('waffle vitrini ve fiyat içermeyen menü', async ({ page }) => {
   await page.goto('/menu');
   await expect(page.locator('.product-card')).toHaveCount(11);
-  await expect(page.locator('.product-card .illustrative-tag')).toHaveCount(5);
+  await expect(page.locator('.product-card .illustrative-tag')).toHaveCount(11);
   await expect(page.getByRole('heading', { name: 'Klasik Waffle' })).toBeVisible();
   const text = await page.locator('body').innerText();
   expect(text).not.toMatch(/\b\d+[.,]?\d*\s*(?:TL|₺)\b/i);

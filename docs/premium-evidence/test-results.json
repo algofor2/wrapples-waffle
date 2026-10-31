@@ -1,0 +1,15 @@
+{
+  "stats": {
+    "startTime": "2026-10-30T11:00:20.849Z",
+    "duration": 32870.3,
+    "expected": 25,
+    "skipped": 1,
+    "unexpected": 0,
+    "flaky": 0
+  },
+  "errors": [],
+  "projects": [
+    "desktop",
+    "mobile"
+  ]
+}

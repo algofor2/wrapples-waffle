@@ -1,2 +1,6 @@
 import type { MetadataRoute } from 'next';
-export default function sitemap(): MetadataRoute.Sitemap { const base = process.env.NEXT_PUBLIC_SITE_URL || 'https://wrapples.example'; return ['', '/menu', '/galeri', '/iletisim'].map(path => ({ url: `${base}${path}`, changeFrequency: path === '/menu' ? 'weekly' : 'monthly', priority: path === '' ? 1 : .7 })); }
+import { getSiteUrl } from '@/lib/site-url';
+export default function sitemap(): MetadataRoute.Sitemap {
+  const base = getSiteUrl();
+  return base ? ['', '/menu', '/galeri', '/iletisim'].map(path => ({ url: `${base}${path}`, changeFrequency: path === '/menu' ? 'weekly' as const : 'monthly' as const, priority: path === '' ? 1 : .7 })) : [];
+}

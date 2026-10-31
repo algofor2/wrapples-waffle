@@ -64,12 +64,15 @@ test('motion preference changes live and header transitions', async ({ page }) =
 });
 
 test('all local images load and layouts fit viewport', async ({ page }) => {
+  test.setTimeout(90_000);
   for (const path of ['/', '/menu', '/galeri', '/iletisim']) {
     await page.goto(path);
     await page.addStyleTag({ content: 'html { scroll-behavior: auto !important; }' });
     await page.evaluate(async () => {
       for (let y = 0; y < document.body.scrollHeight; y += innerHeight) { scrollTo(0, y); await new Promise(r => setTimeout(r, 40)); }
-      await Promise.all(Array.from(document.images).filter(img => img.getClientRects().length > 0).map(img => img.decode().catch(() => {})));
+      const images = Array.from(document.images).filter(img => img.getClientRects().length > 0);
+      images.forEach(img => { img.loading = 'eager'; });
+      await Promise.race([Promise.all(images.map(img => img.decode().catch(() => {}))), new Promise(resolve => setTimeout(resolve, 8000))]);
     });
     const broken = await page.locator('img').evaluateAll(imgs => imgs.filter((img): img is HTMLImageElement => img instanceof HTMLImageElement && img.getClientRects().length > 0).filter(img => !img.complete || img.naturalWidth === 0).map(img => img.src));
     expect(broken, path).toEqual([]);

@@ -17,12 +17,12 @@ The recorded desktop reference uses a full-window food photograph, a header over
 | Body and navigation | Self-hosted DM Sans, 400 / 600 / 800, Latin + Turkish glyph coverage |
 | Desktop container | max 1328px; 56px side inset at standard desktop widths |
 | Rhythm | approximately 110–145px vertical desktop section padding, 75–90px mobile |
-| Hero | One original 16:9 photograph at a time; three manual scenes; no autoplay |
+| Hero | Three manual scenes; original 16:9 desktop photos and separate 2:3 mobile compositions; no autoplay |
 | Gallery | Tall chocolate close-up against landscape table photograph and editorial text |
 | Product imagery | Consistent original 4:5 still lifes, dedicated square category variants |
 | Motion | IntersectionObserver reveal, image clip mask, stagger, bounded desktop parallax |
 
-The typography, terracotta palette, composition, copy and photographs are original implementation decisions. No competitor code, photographs, logos, slogans or distinctive brand assets were copied. Reference image URLs are not application assets. Mood photographs are explicitly labeled AI concepts and are not presented as the actual premises.
+The typography, terracotta palette, composition, copy and photographs are original implementation decisions. No competitor code, photographs, logos, slogans or distinctive brand assets were copied. Reference image URLs are not application assets. The two imagined café interiors were removed from the public site in the subsequent [premium revision](overhaul-qa.md); original assets remain archived in the repository. Real menu photographs now appear in a small homepage gallery, separated from labeled illustrative imagery.
 
 ## Evidence and limits
 

@@ -1,5 +1,7 @@
 # Premium visual overhaul — verification
 
+> Historical first PR pass. The current revision and rerun test results are recorded in [overhaul-qa.md](overhaul-qa.md).
+
 Date: 30 October 2026. Starting GitHub main: `8189647ffcd700f0d2c2548c020ad398bafacec3`.
 
 ## Result
